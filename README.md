@@ -1,4 +1,4 @@
-# setup1
+# vue-backpack-shop
 
 ## Project setup
 ```
